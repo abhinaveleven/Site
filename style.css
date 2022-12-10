@@ -1,0 +1,37 @@
+@font-face {
+    font-family:'Didot' ;
+    src: url(/Fonts/Didot\ LT\ Std\ Bold.otf);
+
+    font-family:'rotis';
+    src: url(Fonts\RotisSerifStd-Italic.otf);
+
+    font-family: "minion";
+    src: url(Fonts\MinionPro-SemiboldIt.otf)
+}
+body {
+    background-color: black;
+  }
+
+h1{
+    color: white;
+    font-size:4em ;
+    font-family:'Didot';
+    text-align: center;
+    margin-bottom: 0;
+}
+
+h3{
+    color: white;
+    font: size 1.8em;
+    font-family:'rotis';
+    text-align:center;
+    margin-top: 0;
+}
+
+p{
+    color: white;
+    font: size 20em;
+    font-family:'minion';
+    text-align:center;
+    
+}
